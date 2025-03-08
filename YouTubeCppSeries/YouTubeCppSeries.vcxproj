@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="_1_Pointers\Jadeite_MessingWithPointers.cpp" />
+    <ClCompile Include="_2_NamedArgsAndMethodChaining\NamedArgsAndMethodChaining.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

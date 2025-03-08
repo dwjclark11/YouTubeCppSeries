@@ -18,5 +18,8 @@
     <ClCompile Include="_1_Pointers\Jadeite_MessingWithPointers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="_2_NamedArgsAndMethodChaining\NamedArgsAndMethodChaining.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

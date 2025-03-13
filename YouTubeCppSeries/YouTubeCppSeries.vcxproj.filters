@@ -24,5 +24,8 @@
     <ClCompile Include="_3_ObjectOrientedProgramming_DoWeNeedIt\OOP_PolyMorphism_DoWeStillNeedIt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="_4_RAII\ResourceAcquisitionIsInitialization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

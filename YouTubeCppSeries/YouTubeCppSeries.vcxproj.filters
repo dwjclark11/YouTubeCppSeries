@@ -27,5 +27,8 @@
     <ClCompile Include="_4_RAII\ResourceAcquisitionIsInitialization.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="_5_SingletonPatternAlternatives\SingletonPatternAlternatives.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

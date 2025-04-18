@@ -133,6 +133,7 @@
     <ClCompile Include="_2_NamedArgsAndMethodChaining\NamedArgsAndMethodChaining.cpp" />
     <ClCompile Include="_3_ObjectOrientedProgramming_DoWeNeedIt\OOP_PolyMorphism_DoWeStillNeedIt.cpp" />
     <ClCompile Include="_4_RAII\ResourceAcquisitionIsInitialization.cpp" />
+    <ClCompile Include="_5_SingletonPatternAlternatives\SingletonPatternAlternatives.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -30,5 +30,16 @@
     <ClCompile Include="_5_SingletonPatternAlternatives\SingletonPatternAlternatives.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="_6_PIMPL\pimpl_classes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="_6_PIMPL\pimpl_classes.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

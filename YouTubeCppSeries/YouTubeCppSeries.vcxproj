@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -129,11 +129,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="_1_Pointers\Jadeite_MessingWithPointers.cpp" />
     <ClCompile Include="_2_NamedArgsAndMethodChaining\NamedArgsAndMethodChaining.cpp" />
     <ClCompile Include="_3_ObjectOrientedProgramming_DoWeNeedIt\OOP_PolyMorphism_DoWeStillNeedIt.cpp" />
     <ClCompile Include="_4_RAII\ResourceAcquisitionIsInitialization.cpp" />
     <ClCompile Include="_5_SingletonPatternAlternatives\SingletonPatternAlternatives.cpp" />
+    <ClCompile Include="_6_PIMPL\pimpl_classes.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="_6_PIMPL\pimpl_classes.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
